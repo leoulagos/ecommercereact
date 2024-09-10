@@ -8,7 +8,7 @@ export default function NavBar() {
         <>
 
             <nav>
-                <a href="#" id="logo"><img src="/src/assets/logo.svg" alt="" /></a>
+            <a href="#" id="logo"><img src="/ecommercereact/logo.svg" alt="Logo" /></a>
                 <ul id="navbar">
                     <li><a href="#" className="activo">Inicio</a></li>
                     <li><a href="#">Tienda</a></li>
